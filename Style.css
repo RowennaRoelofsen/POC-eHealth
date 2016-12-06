@@ -1,0 +1,51 @@
+body {
+    padding: 10%;
+    background-color: #eee;
+    font-family: 'Avenir', sans-serif;
+}
+
+body > * {
+    margin: 0 auto;
+}
+
+body > *:not(input) {
+    padding: 10px;
+    width: 100%;
+}
+
+input {
+    margin-left: 10px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*
+BRONNEN
+Modal: http://www.w3schools.com/howto/howto_css_modals.asp
+Word restrict: http://stackoverflow.com/questions/26126076/how-to-restrict-certain-words-in-text-field-using-javascript
+*/

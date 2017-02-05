@@ -44,7 +44,7 @@ Als de waarde van het variabel found true is wordt het modal geopend met hierin 
 Als de gebruiker op het kruisje klikt wordt het modal gesloten.<br>
 
 <h2>Hoe zou ik verder gaan?</h2><br>
-In de lijst van issues staan een aantal punten waarvan ik denk dat het verbeteringen en aanvullingen zijn. Als ik hier momenteel zelf verder mee gaan zou ik die issues aanpakken en het inzetten in de praktijk om te kijken hoe het werkt (zijn er problemen met de context (wordt er onnodig of verkeerd gereageerd op woorden)/ worden er woorden gebruikt die duiden op een terugval waar nog niet op gereageerd wordt).<br>
+In de lijst van issues staan een aantal punten waarvan ik denk dat het verbeteringen en aanvullingen zijn. Als ik hier momenteel zelf verder mee gaan zou ik die issues aanpakken en het inzetten in de praktijk om te kijken hoe het werkt (zijn er problemen met de context (wordt er onnodig of verkeerd gereageerd op woorden)/ worden er woorden gebruikt die duiden op een terugval waar nog niet op gereageerd wordt).Verder heb ik alle bericht pagina's hier dus uitgewerkt maar dit is niet hoe ik het verder uit zou werken. Het team van Suus, Demi & Amber hebben hier veel onderzoek naar gedaan en deze beter uitgewerkt. Ik zou de code van het woordfilter in hun code verwerken.<br>
 
 
 <h2>Bronnen:</h2><br>

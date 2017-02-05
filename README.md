@@ -14,7 +14,7 @@ Mijn progressie op een rijtje. Ik heb geleerd: <br>
 <li>hoe je kan checken wat de gebruikt in een textfield heeft ingetypt middels JS zodat je op anders kan reageren op verschillende input.</li>
 
 <h2>Begin fase, POC</h2>
-<i>De code hierbij staat in de index.html / style.css etc.</i>
+<i>De code hierbij staat in de index.html / style.css etc.</i><br>
 <b>Inleiding, wat wil je weten?</b><br>
 Hoe kan ik er voor zorgen dat er een pop-up komt dat mensen er aan herinnert positief te reageren op het moment dat zei een negatief woord invoeren in het berichten venster? 
 
@@ -30,7 +30,7 @@ In eerste instantie dacht ik eraan om een soort van chatbot te maken die suggest
 Het is mogelijk om middels jQuery bepaalde woorden te herkennen en hierop te reageren middels een pop-up die gebruikers er aan herinnerd om positief te reflecteren zoals is te zien in het code voorbeeld. Ik ben er echter niet zeker van of dit ook makkelijker kan.
 
 <h2>Vervolg, eindproduct</h2>
-<i>De code hierbij staat in woordfilter zipfile</i>
+<i>De code hierbij staat in woordfilter.zip bestand</i><br>
 Na het POC ben ik verder gegaan met het maken van de berichten pagina's in HTML & CSS om de flow duidelijker te maken. Mijn focus lag echter vooral op de pagina met het woordfilter. Uit onderzoek en feedback van Marije bleek dat ik onderscheidt moest maken in de woorden waar ik op filterde. Als je gebruikers zegt dat het negatief is als ze onzeker zijn en zegt dat ze dit niet mogen zeggen is de kans groot dat ze zich belemmerd voelen. Hiervoor hebben we de gefilterde woorden er nog eens bij gepakt en drie categorieën gemaakt waar allemaal anders op wordt gereageerd; Ontmoedigd, slecht & onzeker. Ik moest de code dus ook zo aanpassen zodat de verschillende categoriën ook verschillende berichten lieten zien. Ook waren er nog wat andere dingen die in de test naar voren kwamen waar ik rekening mee wilde houden. Zo komt de melding nu pas als de gebruiker klikt op de knop om naar de volgende stap te gaan, komt de melding niet als de woorden maar, echter, of desondanks worden gebruikt om zo rekening te houden met de context, krijgt de gebruiker een melding als hij niks heeft ingevoerd, & spelen we in op eventuele typfouten middels een spellingschecker (een javascript plugin) zodat het woordfilter deze niet over het hoofd ziet.
 
 <b>Code toelichting</b>

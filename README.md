@@ -5,6 +5,14 @@ Werkend prototype: http://rowennaroelofsen.github.io/index.html
 <h2>Inleiding</h2><br>
 In de README maak ik duidelijk wat mijn proces is geweest en hoe het werkende prototype is opgebouwd. Verder wil ik even duidelijk maken welke stappen ik heb gezet ten opzichte van het begin van het project. Ik heb in ieder geval meer vertrouwen gekregen in mijn CSS vaardigheden. Ik heb voor dit ontwerp namelijk eerst photoshop schermen gemaakt en deze vervolgens geprobeert na te maken met code. Dit is mij gelukt en ik heb nu het idee dat als ik mij er voor in zet dat ik veel designs kan vertalen in code (hoewel ik op dit gebied natuurlijk nog wel veel kan leren). Verder probeer ik javascript meestal een beetje te ontwijken omdat ik hier best veel moeite mee heb. Voor dit ontwerp was javascript de basis en moest ik er wel veel mee doen. Ik ben blij dat ik hier meer mee heb geoefend en ben tevreden met hoe ver ik ben gekomen. 
 
+Mijn progressie op een rijtje. Ik heb geleerd: <br>
+<u>
+<li>hoe je een modal kan triggeren en de achtergrond onklikbaar kan maken / donker maken.</li>
+<li>hoe je een hamburger menu maakt.</li>
+<li>hoe je een menu in kan laten sliden middels CSS.</li>
+
+
+
 <h2>Begin fase, POC</h2>
 <b>Inleiding, wat wil je weten?</b><br>
 Hoe kan ik er voor zorgen dat er een pop-up komt dat mensen er aan herinnert positief te reageren op het moment dat zei een negatief woord invoeren in het berichten venster? 
@@ -34,6 +42,9 @@ Deze functie controlleert eerst voor elk van de drie van de drie categoriën woo
 Als de waarde van het variabel found true is wordt het modal geopend met hierin de juiste melding en worden twee buttons zichtbaar, één waarmee de gebruikers er voor kunnen kiezen het bericht aan te passen en een ander waarbij de gebruiker er toch voor kan kiezen het bericht te plaatsen. Als het variabel found op false blijft staan wordt de gebruiker meteen doorverwezen naar de voglende pagina.<br> 
 
 Als de gebruiker op het kruisje klikt wordt het modal gesloten.<br>
+
+<h2>Hoe zou ik verder gaan?</h2><br>
+In de lijst van issues staan een aantal punten waarvan ik denk dat het verbeteringen en aanvullingen zijn. Als ik hier momenteel zelf verder mee gaan zou ik die issues aanpakken en het inzetten in de praktijk om te kijken hoe het werkt (zijn er problemen met de context (wordt er onnodig of verkeerd gereageerd op woorden)/ worden er woorden gebruikt die duiden op een terugval waar nog niet op gereageerd wordt).<br>
 
 
 <h2>Bronnen:</h2><br>

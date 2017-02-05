@@ -2,16 +2,16 @@
 Werkend prototype: http://rowennaroelofsen.github.io/index.html
 
 
-<h2>Inleiding</h2><br>
+<h2>Inleiding</h2>
 In de README maak ik duidelijk wat mijn proces is geweest en hoe het werkende prototype is opgebouwd. Verder wil ik even duidelijk maken welke stappen ik heb gezet ten opzichte van het begin van het project. Ik heb in ieder geval meer vertrouwen gekregen in mijn CSS vaardigheden. Ik heb voor dit ontwerp namelijk eerst photoshop schermen gemaakt en deze vervolgens geprobeert na te maken met code. Dit is mij gelukt en ik heb nu het idee dat als ik mij er voor in zet dat ik veel designs kan vertalen in code (hoewel ik op dit gebied natuurlijk nog wel veel kan leren). Verder probeer ik javascript meestal een beetje te ontwijken omdat ik hier best veel moeite mee heb. Voor dit ontwerp was javascript de basis en moest ik er wel veel mee doen. Ik ben blij dat ik hier meer mee heb geoefend en ben tevreden met hoe ver ik ben gekomen. 
 
 Mijn progressie op een rijtje. Ik heb geleerd: <br>
 <u>
 <li>hoe je een modal kan triggeren en de achtergrond onklikbaar kan maken / donker maken.</li>
 <li>hoe je een hamburger menu maakt.</li>
-<li>hoe je een menu in kan laten sliden middels CSS.</li>
-
-
+<li>hoe je een menu in kan laten sliden (animeren) middels CSS.</li>
+<li>hoe je er voor kan zorgen dat het bericht aan bepaalde voorwaarden moet voldoen voordat de gebruiker het bericht kan plaatsen middels JS.</li>
+<li>hoe je kan checken wat de gebruikt in een textfield heeft ingetypt middels JS zodat je op anders kan reageren op verschillende input.</li>
 
 <h2>Begin fase, POC</h2>
 <b>Inleiding, wat wil je weten?</b><br>
@@ -28,7 +28,7 @@ In eerste instantie dacht ik eraan om een soort van chatbot te maken die suggest
 <b>Conclusie: antwoord op wat je wilde weten…</b><br>
 Het is mogelijk om middels jQuery bepaalde woorden te herkennen en hierop te reageren middels een pop-up die gebruikers er aan herinnerd om positief te reflecteren zoals is te zien in het code voorbeeld. Ik ben er echter niet zeker van of dit ook makkelijker kan.
 
-<h2>Vervolg, eindproduct</h2><br>
+<h2>Vervolg, eindproduct</h2>
 Na het POC ben ik verder gegaan met het maken van de berichten pagina's in HTML & CSS om de flow duidelijker te maken. Mijn focus lag echter vooral op de pagina met het woordfilter. Uit onderzoek en feedback van Marije bleek dat ik onderscheidt moest maken in de woorden waar ik op filterde. Als je gebruikers zegt dat het negatief is als ze onzeker zijn en zegt dat ze dit niet mogen zeggen is de kans groot dat ze zich belemmerd voelen. Hiervoor hebben we de gefilterde woorden er nog eens bij gepakt en drie categorieën gemaakt waar allemaal anders op wordt gereageerd; Ontmoedigd, slecht & onzeker. Ik moest de code dus ook zo aanpassen zodat de verschillende categoriën ook verschillende berichten lieten zien. Ook waren er nog wat andere dingen die in de test naar voren kwamen waar ik rekening mee wilde houden. Zo komt de melding nu pas als de gebruiker klikt op de knop om naar de volgende stap te gaan, komt de melding niet als de woorden maar, echter, of desondanks worden gebruikt om zo rekening te houden met de context, krijgt de gebruiker een melding als hij niks heeft ingevoerd, & spelen we in op eventuele typfouten middels een spellingschecker (een javascript plugin) zodat het woordfilter deze niet over het hoofd ziet.
 
 <b>Code toelichting</b>
@@ -43,11 +43,11 @@ Als de waarde van het variabel found true is wordt het modal geopend met hierin 
 
 Als de gebruiker op het kruisje klikt wordt het modal gesloten.<br>
 
-<h2>Hoe zou ik verder gaan?</h2><br>
+<h2>Hoe zou ik verder gaan?</h2>
 In de lijst van issues staan een aantal punten waarvan ik denk dat het verbeteringen en aanvullingen zijn. Als ik hier momenteel zelf verder mee gaan zou ik die issues aanpakken en het inzetten in de praktijk om te kijken hoe het werkt (zijn er problemen met de context (wordt er onnodig of verkeerd gereageerd op woorden)/ worden er woorden gebruikt die duiden op een terugval waar nog niet op gereageerd wordt).Verder heb ik alle bericht pagina's hier dus uitgewerkt maar dit is niet hoe ik het verder uit zou werken. Het team van Suus, Demi & Amber hebben hier veel onderzoek naar gedaan en deze beter uitgewerkt. Ik zou de code van het woordfilter in hun code verwerken.<br>
 
 
-<h2>Bronnen:</h2><br>
+<h2>Bronnen:</h2>
 Agus (z.j.). 10 Tools to Build your Own Chatbots [Artikel]. Geraadpleegd op 06 december, 2016, van http://www.hongkiat.com/blog/tools-to-build-chatbots/<br>
 Blinnikov, L. (2009, 13 juni). Creating a word filter in PHP. Geraadpleegd op 06 december, 2016, van http://nookkin.com/articles/programming/creating-a-word-filter-in-php.ndoc<br>
 Florell, C. (2012). jQuery.ProfanityFilter [Github repository]. Geraadpleegd op 06 december, 2016, van https://github.com/ChaseFlorell/jQuery.ProfanityFilter<br>

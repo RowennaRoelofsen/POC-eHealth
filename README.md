@@ -50,9 +50,9 @@ In de lijst van issues staan een aantal punten waarvan ik denk dat het verbeteri
 
 <h2>Overdracht</h2>
 Inzichten die ik tijdens dit project gekregen heb, en waarom het handig is om over te dragen aan bepaalde professionals:
--[ ] Nummer 1
--[ ] Nummer 2
--[x] Nummer 3 aan een professional die goed is in het bouwen van databases.
+- [ ] Nummer 1
+- [ ] Nummer 2
+- [x] Nummer 3 aan een professional die goed is in het bouwen van databases.
 
 <h2>Bronnen:</h2>
 Agus (z.j.). 10 Tools to Build your Own Chatbots [Artikel]. Geraadpleegd op 06 december, 2016, van http://www.hongkiat.com/blog/tools-to-build-chatbots/<br>

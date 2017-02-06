@@ -48,6 +48,11 @@ Als de gebruiker op het kruisje klikt wordt het modal gesloten.<br>
 <h2>Hoe zou ik verder gaan?</h2>
 In de lijst van issues staan een aantal punten waarvan ik denk dat het verbeteringen en aanvullingen zijn. Als ik hier momenteel zelf verder mee gaan zou ik die issues aanpakken en het inzetten in de praktijk om te kijken hoe het werkt (zijn er problemen met de context (wordt er onnodig of verkeerd gereageerd op woorden)/ worden er woorden gebruikt die duiden op een terugval waar nog niet op gereageerd wordt).Verder heb ik alle bericht pagina's hier dus uitgewerkt maar dit is niet hoe ik het verder uit zou werken. Het team van Suus, Demi & Amber hebben hier veel onderzoek naar gedaan en deze beter uitgewerkt. Ik zou de code van het woordfilter in hun code verwerken.<br>
 
+<h2>Overdracht</h2>
+Inzichten die ik tijdens dit project gekregen heb, en waarom het handig is om over te dragen aan bepaalde professionals:
+-[ ] Nummer 1
+-[ ] Nummer 2
+-[x] Nummer 3 aan een professional die goed is in het bouwen van databases.
 
 <h2>Bronnen:</h2>
 Agus (z.j.). 10 Tools to Build your Own Chatbots [Artikel]. Geraadpleegd op 06 december, 2016, van http://www.hongkiat.com/blog/tools-to-build-chatbots/<br>
